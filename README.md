@@ -14,6 +14,7 @@ This is the official support page of the [GPS Ready][Google Play Link] applicati
 **1.0.1**
   - Fixed #1 - The GPS state was lost between app restarts
   - Fixed #2 - The background scheduler is now started only once
+
 **1.0.0**
   - Initial release
 
