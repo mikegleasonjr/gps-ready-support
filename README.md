@@ -12,8 +12,8 @@ This is the official support page of the [GPS Ready][Google Play Link] applicati
 
 ### Changelog
 **1.0.1**
-  - Fixed #1 - The GPS state was lost between app restarts
-  - Fixed #2 - The background scheduler is now started only once
+  - Fixed [#1] - The background scheduler is now started only once
+  - Fixed [#2] - The GPS state was lost between app restarts
 
 **1.0.0**
   - Initial release
@@ -23,3 +23,5 @@ This is the official support page of the [GPS Ready][Google Play Link] applicati
 [Browse the wiki]:https://github.com/mikegleasonjr/gps-ready-support/wiki
 [Google Play Badge]:https://developer.android.com/images/brand/en_generic_rgb_wo_60.png
 [Google Play Link]:https://play.google.com/store/apps/details?id=com.mikecouturier.gpsready
+[#1]:https://github.com/mikegleasonjr/gps-ready-support/issues/1
+[#2]:https://github.com/mikegleasonjr/gps-ready-support/issues/2
